@@ -7,5 +7,7 @@ ol{
 dt.personalizado{
     background-color: aqua;
     border-color: red;
-    border-style: dotted;
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
 }
