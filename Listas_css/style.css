@@ -4,3 +4,8 @@ ul{
 ol{
     list-style-type: upper-roman;
 }
+dt.personalizado{
+    background-color: aqua;
+    border-color: red;
+    border-style: dotted;
+}
