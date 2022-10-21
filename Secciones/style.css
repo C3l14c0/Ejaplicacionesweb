@@ -1,0 +1,19 @@
+header{
+
+    border: 3px red solid;
+    height: 20%;
+}
+nav{
+    border: 5px aqua ridge;
+    height: 60%;
+}
+footer{
+    border: 4px yellowgreen solid;
+    height: 20%;
+}
+li.menu{
+    list-style-type:none;
+    display: inline;
+    margin: 43px;
+    border: 3px indigo ridge;
+}
