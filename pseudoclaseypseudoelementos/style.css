@@ -1,0 +1,9 @@
+header:p:first-child{
+    color: blueviolet;
+}
+a:link{
+    background-color: aquamarine;
+}
+a:visited{
+    background-color: blue;
+}
