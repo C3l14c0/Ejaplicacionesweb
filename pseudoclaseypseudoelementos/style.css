@@ -1,9 +1,9 @@
-header:p:first-child{
+header{
     color: blueviolet;
 }
 a:link{
-    background-color: aquamarine;
+    color: blue;
 }
 a:visited{
-    background-color: blue;
+    background-color: blueviolet;
 }
